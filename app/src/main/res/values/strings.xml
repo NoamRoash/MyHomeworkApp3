@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">מתכנן שיעורי בית</string>
+
+    <string name="label_student_name">שם התלמיד/ה:</string>
+    <string name="hint_student_name">הקלד/י שם</string>
+    <string name="btn_enter">כניסה</string>
+    <string name="btn_reset">איפוס כל הנתונים</string>
+
+    <string name="empty_list">אין משימות להצגה</string>
+    <string name="btn_add">הוספת משימה</string>
+    <string name="btn_logout">יציאה</string>
+
+    <string name="label_type">סוג המשימה:</string>
+    <string name="label_title">כותרת:</string>
+    <string name="hint_title">למשל: תרגילים בפרק 3</string>
+    <string name="label_subject">מקצוע:</string>
+    <string name="label_priority">עדיפות:</string>
+    <string name="label_due_date">תאריך הגשה:</string>
+    <string name="hint_due_date">dd/MM/yyyy</string>
+    <string name="hint_amount_homework">מספר תרגילים</string>
+    <string name="btn_save">שמירה</string>
+    <string name="btn_cancel">ביטול</string>
+
+    <string name="btn_toggle_done">סמן כבוצע</string>
+    <string name="btn_delete">מחיקה</string>
+    <string name="btn_back">חזרה</string>
+</resources>
